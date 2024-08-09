@@ -1,0 +1,25 @@
+.red-title {
+    font-size: 45px;
+    color:red
+}
+
+li {
+    list-style-position:inside
+}
+
+h3 {
+    color: white; background-color: black;
+}
+
+h2 {
+    color:chocolate
+}
+
+h1 {
+    color:brown
+}
+
+p {
+    font-size: 20px;
+}
+
